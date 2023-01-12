@@ -1,8 +1,8 @@
 ### Olá! Eu sou o Pablo 
 
 
-- 🔭 Apaixonado por tecnologia
-- 🌱 Estudante Analise e Desenvolvimento de Sitemas 
+- 🔭 Apaixonado por tecnologia;
+- 🌱 Estudante Analise e Desenvolvimento de Sitemas;
 <div align="center">
   <a href="https://github.com/prmires593">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=prmires593&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
